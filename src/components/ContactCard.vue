@@ -10,9 +10,6 @@ export default {
     <div class="p-1">
       <strong>Tên:</strong>
       {{ contact.name }}
-
-      Create src/views/ContactBook.vue to define a page showing a list of
-      contacts:
     </div>
     <div class="p-1">
       <strong>E-mail:</strong>
